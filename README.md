@@ -1,1 +1,1 @@
-# gym-auth-service
+# spring-boot-template
