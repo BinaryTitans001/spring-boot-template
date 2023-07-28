@@ -52,5 +52,5 @@ Use [run.bat](./run.bat) script
 
 ### Get endpoint
 ```
-curl -i http://localhost:9080/api/v1/hello
+curl -i http://localhost:9080/api/v1/hello/v1
 ```
